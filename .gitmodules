@@ -9,7 +9,8 @@
 	url = https://github.com/VCVRack/Befaco.git
 [submodule "plugins/AudibleInstruments"]
 	path = plugins/AudibleInstruments
-	url = https://github.com/CardinalModules/AudibleInstruments.git
+	url = git@github.com:phi-line/AudibleInstruments.git
+  branch = kiem
 [submodule "plugins/AnimatedCircuits"]
 	path = plugins/AnimatedCircuits
 	url = https://github.com/AnimatedCircuits/RackModules.git
